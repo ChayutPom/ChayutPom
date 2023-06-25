@@ -1,8 +1,8 @@
 
+<a  align="center" href="https://app.daily.dev/ChayutPom"><img src="https://api.daily.dev/devcards/70813cfa3ff549d1afdeceba5394fbab.png?r=mqk" width="100" alt="Pom's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Chayut Auitakul</h1>
 <h3 align="center">I am currently working as a front-end developer, specializing in Vue.js, Nuxt.js, and TypeScript. With over 2 years of experience While my expertise lies in front-end development, I have a keen interest in exploring back-end technologies such as Go and Node.js. I am also enthusiastic about mobile development using Flutter. I believe that having a well-rounded skill set in both front-end and back-end technologies allows for greater versatility and a deeper understanding of the overall development process.</h3>
 
-<a href="https://app.daily.dev/ChayutPom"><img src="https://api.daily.dev/devcards/70813cfa3ff549d1afdeceba5394fbab.png?r=mqk" width="400" alt="Pom's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayutpom&label=Profile%20views&color=0e75b6&style=flat" alt="chayutpom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chayutpom" alt="chayutpom" /></a> </p>
